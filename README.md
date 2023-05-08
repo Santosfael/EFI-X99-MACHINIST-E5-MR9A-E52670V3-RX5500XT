@@ -1,8 +1,8 @@
 # EFI-X99-MACHINIST-E5-MR9A-E5-2670V3-RX5500XT
 
 SMBIOS: iMacPro1,1\
-Latest working macOS: Ventura 13.3\
-Current OpenCore: 0.9.1
+Latest working macOS: Ventura 13.3.1.(a)\
+Current OpenCore: 0.9.2
 
 ## Complete hardware specs
 * Intel xeon E5-2670 v3 12/24T
